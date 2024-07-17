@@ -1,0 +1,29 @@
+similarweb -website traffic shows
+pouyaeti.com -mentor blog
+---------------------------------------------------------------------------
+
+HOW TO USE CHATGPT?
+
+Prompt Formula : ROLE + GOAL + CONTEXT + ABA 
+
+GOAL :Required what you want main thing
+Role : assign role to chatgpt Ex: i want you to act as a digital marketer expert
+Context :Define target , TSL(Tone,Style,Lengtgh), Format ,Examples,Output template , tasksplit 
+
+CSV format :points
+TABLE FORMAT : TABLE
+
+
+ABA:ask before answer
+--------------------------------------------------------------------------
+Wordpress
+
+https://pouyaeti.com/blog/free-wordpress-website/(link wordpress) 
+Ex:if you bought a house
+Domain : domain is the address for your website(address for your house)
+host:A host is a computer or other device that communicates with other hosts on a network. Also known as network hosts, hosts include clients and servers that send or receive data, services and applications.(land , rooms simply called storage area)
+
+plugins :for wordpress websites
+
+
+PORTFOLIO : A portfolio website is a personal site where you can showcase your work and let others know about yourself
