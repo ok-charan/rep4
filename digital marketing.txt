@@ -1,6 +1,5 @@
 similarweb -website traffic shows
 pouyaeti.com -mentor blog
-https://pouyaeti.com/digital-marketing-course-workstation/-study metirial
 ---------------------------------------------------------------------------
 
 HOW TO USE CHATGPT?
@@ -27,4 +26,5 @@ host:A host is a computer or other device that communicates with other hosts on 
 plugins :for wordpress websites
 
 
-PORTFOLIO : A portfolio website is a personal site where you can showcase your work and let others know about yourself
+PORTFOLIO : A portfolio website is a personal site where you can showcase your work and let others know about 
+yourselfhttps://capgemini.udemy.com/course/digital-marketing-strategy-course-wordpress-seo-instagram-facebook/
